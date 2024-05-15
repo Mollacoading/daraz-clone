@@ -42,9 +42,42 @@
 }
 
 .feature-container:hover{
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
 .feature-text:hover{
     color: tomato !important;
 }
+
+.flash-sell-div{
+    border: 1px solid rgb(242, 238, 238);
+    margin-bottom: 10px;
+
+}
+.flash-sell-div:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    cursor: pointer;
+
+}
+
+.flash-sell-image{
+    height: 230px;
+    width: 212px;
+    display: block;
+    margin: auto;
+}
+
+.footer-class{
+    background-color: black;
+    margin-top: 10px;
+    padding-top: 5px;
+}
+.footer-class a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer-class {
+    color: #ececec;
+}
+
